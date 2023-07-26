@@ -1,0 +1,15 @@
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\bin\Debug\net6.0\RPSLS.exe
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\bin\Debug\net6.0\RPSLS.deps.json
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\bin\Debug\net6.0\RPSLS.runtimeconfig.json
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\bin\Debug\net6.0\RPSLS.dll
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\bin\Debug\net6.0\RPSLS.pdb
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.csproj.AssemblyReference.cache
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.AssemblyInfoInputs.cache
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.AssemblyInfo.cs
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.csproj.CoreCompileInputs.cache
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.dll
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\refint\RPSLS.dll
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.pdb
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\RPSLS.genruntimeconfig.cache
+C:\Users\jleac\OneDrive\Desktop\RPSLS_FSF_CSharp_Starter-main\RPSLS_FSF_CSharp_Starter-main\RPSLS\obj\Debug\net6.0\ref\RPSLS.dll
