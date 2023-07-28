@@ -9,8 +9,8 @@ namespace RPSLS
     internal class Game
     {
         //Member Variabes (HAS A)
-        public Player playerOne;
-        public Player playerTwo;
+        public Player player1;
+        public Player player2;
 
         //Constructor
         public Game()
@@ -52,7 +52,18 @@ namespace RPSLS
 
         public void CreatePlayerObjects(int numberOfHumanPlayers)
 
-        { 
+        {
+            Console.WriteLine("Enter player one's name");
+            player1 = new HumanPlayer(Console.ReadLine());
+            if (numberOfHumanPlayers == 1)
+            {
+                player2 = new Computerplayer("AI");
+            }
+            else
+            {
+                Console.WriteLine("Enter player two's name");
+                player2 = new HumanPlayer(Console.ReadLine());
+            }
         }
         
 
