@@ -127,7 +127,8 @@ namespace RPSLS
         public void RunGame()
         {
             WelcomeMessage();
-            ChooseNumberOfHumanPlayers();
+            int numofPlayers = ChooseNumberOfHumanPlayers();
+            CreatePlayerObjects(numofPlayers);
             CompareGestures();
             DisplayGameWinner();
         }
